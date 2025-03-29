@@ -91,25 +91,88 @@ Como um entusiasta da programação, estou sempre em busca de soluções inovado
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display:flex;">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kbf0k&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    style="padding:5px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kbf0k&theme=github_dark&langs_count=9&border=true" 
+  />
+    
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding:10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbf0k&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding:10px"
+    src="https://github-readme-stats.vercel.app/api?username=kbf0k&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbf0k&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="145"
+    style="padding:10px"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kbf0k&repo=TECHWOMAN&theme=github_dark" 
+/>
 </p>
