@@ -10,11 +10,10 @@ Como um entusiasta da programação, estou sempre em busca de soluções inovado
 
 ### 🌐 Me encontre nas redes sociais  
 
-- **LinkedIn**: [Kaique Ferreira](https://www.linkedin.com/in/kaiqueferreira0/)  
-- **Instagram**: [@kbf0k](https://www.instagram.com/kbf0k/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqueferreira0/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kbf0k/)
 
 ---
-
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -143,26 +142,6 @@ Como um entusiasta da programação, estou sempre em busca de soluções inovado
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="margin:10px"
-    src="https://github-readme-stats.vercel.app/api?username=kbf0k&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="margin:10px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kbf0k&theme=github_dark&langs_count=9&border=true" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="margin:10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbf0k&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kbf0k&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kbf0k&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbf0k&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
